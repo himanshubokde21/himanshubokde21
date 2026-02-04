@@ -1,6 +1,17 @@
-<!-- 👋 Welcome Section -->
-<h1 align="center">Hey there, I'm <a href="https://linkedin.com/in/himanshu-bokde-2a19462b5" target="_blank">Himanshu Bokde</a> 👋</h1>
-<h3 align="center">🚀 Full Stack Developer | 💡 ML & AI Enthusiast</h3>
+<!-- ===================== -->
+<!-- 👋 HERO / INTRO -->
+<!-- ===================== -->
+<h1 align="center">
+  Hi, I'm <a href="https://linkedin.com/in/himanshu-bokde-2a19462b5" target="_blank">Himanshu Bokde</a> 👋
+</h1>
+
+<h3 align="center">
+  🚀 Full Stack Developer | 💡 ML & AI Enthusiast
+</h3>
+
+<p align="center">
+  Passionate about building scalable web applications, intelligent systems, and developer tools that solve real-world problems.
+</p>
 
 <p align="center">
   <a href="mailto:bokdesaurabh802@gmail.com">
@@ -10,6 +21,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎯 Full Stack Developer with strong backend and frontend fundamentals  
+- 🧠 Interested in **Machine Learning, AI systems, and developer tooling**  
+- 🛠 Love building **products**, not just projects  
+- 📚 Continuous learner with a focus on clean architecture and performance  
 
 ---
 
@@ -35,7 +55,7 @@
 
 ---
 
-### 📊 Data Science & Backend Tools
+### 📊 Data & Analytics
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Polars](https://img.shields.io/badge/polars-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -54,63 +74,61 @@
 
 ---
 
-### 🧩 Dev Tools & Platforms
+### 🧩 Developer Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats & Analytics
+## 🚀 Featured Projects
+
+### 🔹 CodeNeura
+- Visualizes source code as **interactive flowcharts**
+- Converts code → JSON → Mermaid.js diagrams
+- Helps developers understand logic, flow, and complexity
+
+### 🔹 Remind-Candles
+- Smart reminder app with **Firebase Cloud Messaging**
+- Automated wishes via **EmailJS & WhatsApp**
+- Custom themes and ringtones for special events
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshubokde21&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshubokde21&theme=github_dark_dimmed&hide_border=false&layout=compact" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshubokde21&theme=github_dark_dimmed&include_all_commits=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshubokde21&layout=compact&theme=github_dark_dimmed" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=himanshubokde21&theme=github_dark_dimmed&hide_border=false" height="160px"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=himanshubokde21&theme=github_dark_dimmed" height="160"/>
 </p>
 
 ---
 
 ## 🏆 Achievements & Highlights
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=himanshubokde21&theme=github_dark&no-frame=true&no-bg=true&row=1&column=6"
-    alt="GitHub Trophies"
-  />
-- 🚀 Built full-stack and ML-driven projects like **CodeNeura**
-- 📈 Actively contributing to open-source and personal projects
-- 🧠 Strong focus on clean architecture, performance, and UI/UX
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=himanshubokde21&theme=github_dark&no-frame=true&row=1&column=6"/>
 </p>
 
+- 🚀 Built full-stack and ML-inspired projects with real-world use cases  
+- 📈 Active contributor to personal and open-source repositories  
+- 🧠 Strong focus on clean code, scalability, and UI/UX  
 
 ---
 
-## ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
-</p>
+## 🐍 Contribution Graph
 
----
-
-## 🔝 Top Contributed Repositories
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=himanshubokde21&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true" />
+  <img src="https://raw.githubusercontent.com/himanshubokde21/himanshubokde21/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/himanshubokde21/himanshubokde21/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-<h4 align="center">✨ Crafted with passion by <a href="https://github.com/himanshubokde21">Himanshu Bokde</a> ✨</h4>
+<h4 align="center">
+  ✨ Crafted with passion by <a href="https://github.com/himanshubokde21">Himanshu Bokde</a> ✨
+</h4>
