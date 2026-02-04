@@ -20,7 +20,11 @@
   <a href="https://linkedin.com/in/himanshu-bokde-2a19462b5">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/cx_pirate/">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
+
 
 ---
 
