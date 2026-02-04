@@ -77,13 +77,15 @@
 ---
 
 ## 🏆 Achievements & Highlights
-
-## 🏆 Achievements & Highlights
 <p align="center">
   <img 
     src="https://github-profile-trophy.vercel.app/?username=himanshubokde21&theme=github_dark&no-frame=true&no-bg=true&row=1&column=6"
     alt="GitHub Trophies"
   />
+- 🚀 Built full-stack and ML-driven projects like **CodeNeura**
+- 📈 Actively contributing to open-source and personal projects
+- 🧠 Strong focus on clean architecture, performance, and UI/UX
+
 </p>
 
 
