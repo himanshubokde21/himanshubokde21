@@ -101,7 +101,7 @@
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/himanshubokde21/himanshubokde21/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/himanshubokde21/himanshubokde21/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
