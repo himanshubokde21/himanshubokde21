@@ -78,9 +78,14 @@
 
 ## 🏆 Achievements & Highlights
 
+## 🏆 Achievements & Highlights
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himanshubokde21&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=himanshubokde21&theme=github_dark&no-frame=true&no-bg=true&row=1&column=6"
+    alt="GitHub Trophies"
+  />
 </p>
+
 
 ---
 
