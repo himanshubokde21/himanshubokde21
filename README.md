@@ -88,7 +88,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-    ### 💻 **Programming**
+    ### 💻 Programming
     <table>
         <tr>
             <td align="center" width="33%">
@@ -111,7 +111,7 @@
             </td>
         </tr>
     </table>
-    ### 🌐 **Frontend**
+    ### 🌐 Frontend
     <table>
         <tr>
             <td align="center" width="25%">
@@ -140,7 +140,7 @@
             </td>
         </tr>
     </table>
-    ### 🔧 **Backend**
+    ### 🔧 Backend
     <table>
         <tr>
             <td align="center" width="50%">
@@ -157,7 +157,7 @@
             </td>
         </tr>
     </table>
-    ### 🤖 **AI/ML**
+    ### 🤖 AI/ML
     <table>
         <tr>
             <td align="center" width="25%">
@@ -200,7 +200,7 @@
             </td>
         </tr>
     </table>
-    ### 📊 **Data Science**
+    ### 📊 Data Science
     <table>
         <tr>
             <td align="center" width="20%">
@@ -243,7 +243,7 @@
             </td>
         </tr>
     </table>
-    ### 🗄️ **Databases**
+    ### 🗄️ Databases
     <table>
         <tr>
             <td align="center" width="33%">
@@ -266,7 +266,7 @@
             </td>
         </tr>
     </table>
-    ### ☁️ **Cloud**
+    ### ☁️ Cloud
     <table>
         <tr>
             <td align="center" width="50%">
@@ -283,7 +283,7 @@
             </td>
         </tr>
     </table>
-    ### 🧰 **Developer Tools**
+    ### 🧰 Developer Tools
     <table>
         <tr>
             <td align="center" width="20%">
@@ -317,7 +317,7 @@
             </td>
         </tr>
     </table>
-    ### 🚀 **Deployment**
+    ### 🚀 Deployment
     <table>
         <tr>
             <td align="center" width="25%">
@@ -350,7 +350,7 @@
 </div>
 ## 🚀 Featured Projects
 
-### 🏛 **Citizen Auditor**
+### 🏛 Citizen Auditor
 *AI-powered civic complaint platform for smart governance*
 
 <div align="center">
@@ -371,7 +371,7 @@ Auditor](https://img.shields.io/badge/Live%20Demo-58a6ff?style=for-the-badge&log
 
 ---
 
-### 🧠 **CodeNeura**
+### 🧠 CodeNeura
 *AI-powered code visualization & analysis tool*
 
 <div align="center">
