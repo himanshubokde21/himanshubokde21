@@ -1,3 +1,5 @@
+
+
 # 📁 workspace.code-workspace
 
 ```json
@@ -13,7 +15,11 @@
 }
 ```
 
-<h1 align="center">💻 Himanshu Bokde</h1>
+<h1 align="center">👋 Hi, I'm Himanshu Bokde</h1>
+
+<p align="center">
+  <b>Full Stack Developer • Backend Engineer • Problem Solver</b>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Backend+Engineer;Building+Scalable+Applications;System+Design+Enthusiast;LeetCode+Problem+Solver" />
@@ -295,9 +301,10 @@ Exploring: DevOps
 
 $ uptime
 
-Coding since: 2022
+Coding since: 2024
 Projects Built: 15+
 DSA Problems: 500+
+LeetCode Rating: 1600+ 
 ```
 
 ---
@@ -321,9 +328,11 @@ DSA Problems: 500+
 # 📄 achievements.log
 
 ```log
-[PASS] Runner-Up — TCS AI Hackathon
+[PASS] 1st Runner-Up — HACKxPBCOE Hackathon
 
 [PASS] 500+ DSA Problems Solved
+
+[PASS] Higest Rating of 1600+ in LeetCode 
 
 [PASS] Multiple Full Stack Projects Built
 
