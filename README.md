@@ -286,7 +286,8 @@ tech_stack:
 # 🏆 Achievements
 
 ```text
-🥈 Runner-Up      → TCS AI Hackathon
+🎖️ 1st Runner-Up  → HACKxPBCOE Hackathon
+📈 1600+          → Leetcode Rating
 💯 500+           → DSA Problems Solved
 🚀 15+            → Full Stack Projects Built
 📚 Continuous     → Learning System Design
