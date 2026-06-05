@@ -1,302 +1,365 @@
-<h1 align="center">👋 Hi, I'm Himanshu Bokde</h1>
+# 📁 workspace.code-workspace
+
+```json
+{
+  "name": "himanshu-bokde",
+  "theme": "GitHub Dark",
+  "role": "Full Stack Developer",
+  "focus": [
+    "Backend Engineering",
+    "System Design",
+    "Cloud & DevOps"
+  ]
+}
+```
+
+<h1 align="center">💻 Himanshu Bokde</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Engineer;System+Design+Enthusiast;Building+Scalable+Applications;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Backend+Engineer;Building+Scalable+Applications;System+Design+Enthusiast;LeetCode+Problem+Solver" />
 </p>
 
 <p align="center">
-  <b>Full Stack Developer • Backend Engineer • Problem Solver</b>
-</p>
-
-<p align="center">
-Building scalable products one commit at a time 🚀
-</p>
-
-<p align="center">
-    <a href="mailto:bokdesaurabh802@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://linkedin.com/in/himanshu-bokde-2a19462b5">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://leetcode.com/u/cx_pirate/">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-    </a>
+  <img src="https://img.shields.io/badge/VS_Code-Workspace-blue?style=flat-square&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/Status-Coding-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square"/>
 </p>
 
 ---
 
-# 📊 Developer Dashboard
+# 📂 Explorer
 
 ```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🔥 CURRENT STATUS
-
-🛠️ Building      : Citizen Auditor
-📚 Learning      : System Design & Cloud
-⚡ Practicing    : LeetCode Daily
-🎯 Goal          : Become Elite Backend Engineer
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-💻 CURRENT FOCUS
-
-✓ Full Stack Development
-✓ Backend Engineering
-✓ Database Design
-✓ API Development
-✓ Cloud Deployment
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📦 himanshu-bokde
+├── 📁 src
+│   ├── 📄 aboutMe.ts
+│   ├── 📄 skills.ts
+│   ├── 📄 projects.ts
+│   └── 📄 roadmap.md
+│
+├── 📁 backend
+│   ├── ⚙️ nodejs
+│   ├── ⚙️ express
+│   ├── ⚙️ fastify
+│   └── ⚙️ django
+│
+├── 📁 database
+│   ├── 🗄️ mongodb
+│   ├── 🗄️ postgresql
+│   ├── 🗄️ mysql
+│   └── 🗄️ drizzle
+│
+├── 📁 cloud
+│   ├── ☁️ railway
+│   ├── ☁️ hostinger
+│   ├── ☁️ docker
+│   └── ☁️ gcp
+│
+└── 📄 README.md
 ```
 
 ---
 
-# 🚀 About Me
+# 📄 aboutMe.ts
 
-```yaml
-name: Himanshu Bokde
+```typescript
+const Himanshu = {
+    role: "Full Stack Developer",
 
-role:
-  - Full Stack Developer
-  - Backend Engineer
+    specialization: [
+        "Backend Engineering",
+        "System Design",
+        "Scalable Applications"
+    ],
 
-currently_learning:
-  - System Design
-  - Cloud & DevOps
-  - Scalable Architecture
+    currentlyLearning: [
+        "System Design",
+        "Cloud Architecture",
+        "DevOps"
+    ],
 
-interests:
-  - Full Stack Development
-  - Open Source
-  - Problem Solving
-  - Backend Systems
+    hobbies: [
+        "Building Products",
+        "DSA",
+        "Open Source"
+    ],
 
-motto:
-  "Code. Learn. Build. Repeat."
+    motto: "Code. Learn. Build. Repeat."
+};
+
+export default Himanshu;
 ```
 
 ---
 
-# ⚡ Skill Progress Dashboard
+# 📄 skills.ts
 
-### 🌐 Frontend
+```typescript
+export const frontend = {
+    React: "95%",
+    TypeScript: "80%",
+    TailwindCSS: "90%",
+    JavaScript: "95%",
+    Vite: "85%"
+};
+
+export const backend = {
+    NodeJS: "95%",
+    Express: "90%",
+    Fastify: "80%",
+    Django: "60%",
+    REST_API: "95%",
+    JWT: "90%"
+};
+
+export const databases = {
+    MongoDB: "90%",
+    PostgreSQL: "75%",
+    MySQL: "80%",
+    Firebase: "75%",
+    DrizzleORM: "70%"
+};
+
+export const cloud = {
+    Railway: "90%",
+    Docker: "75%",
+    Hostinger: "75%",
+    Linux: "85%",
+    GCP: "55%"
+};
+```
+
+---
+
+# 📊 Skill Monitor
+
+### Frontend
 
 ```text
 React           ████████████████████ 95%
-JavaScript      ████████████████████ 95%
 TypeScript      ████████████████░░░░ 80%
 TailwindCSS     ███████████████████░ 90%
-HTML/CSS        ████████████████████ 95%
-Vite            █████████████████░░░ 85%
+JavaScript      ████████████████████ 95%
 ```
 
-### ⚙️ Backend
+### Backend
 
 ```text
 Node.js         ████████████████████ 95%
 Express.js      ███████████████████░ 90%
 Fastify         ████████████████░░░░ 80%
-Django          ████████████░░░░░░░░ 60%
 REST APIs       ████████████████████ 95%
 JWT Auth        ███████████████████░ 90%
-WebSockets      ███████████████░░░░░ 75%
 ```
 
-### 🗄️ Databases
+### Database
 
 ```text
 MongoDB         ███████████████████░ 90%
 PostgreSQL      ███████████████░░░░░ 75%
 MySQL           ████████████████░░░░ 80%
-Firebase        ███████████████░░░░░ 75%
 Drizzle ORM     ██████████████░░░░░░ 70%
-Xata            ████████████░░░░░░░░ 60%
 ```
 
-### ☁️ Cloud & DevOps
+### Cloud
 
 ```text
 Railway         ███████████████████░ 90%
-Hostinger VPS   ███████████████░░░░░ 75%
 Docker          ███████████████░░░░░ 75%
+Hostinger VPS   ███████████████░░░░░ 75%
 Linux           █████████████████░░░ 85%
-GitHub Actions  █████████████░░░░░░░ 65%
-Google Cloud    ███████████░░░░░░░░░ 55%
-```
-
-### 🧠 Computer Science
-
-```text
-Data Structures ███████████████████░ 90%
-Algorithms      ███████████████████░ 90%
-Problem Solving ████████████████████ 95%
-System Design   ██████████████░░░░░░ 70%
-OOP             ███████████████████░ 90%
 ```
 
 ---
 
-# 🛠️ Tech Arsenal
+# 📄 techStack.tsx
 
-### 💻 Languages
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,python,java" />
-</p>
+### Frontend
 
-### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,ts,html,css" />
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" />
-</p>
+### Backend
 
-### ⚙️ Backend
-
-<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
-</p>
 
-### 🗄️ Databases
+### Database
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
-</p>
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,linux,githubactions,nginx,gcp" />
-</p>
+<img src="https://skillicons.dev/icons?i=docker,linux,gcp,githubactions" />
+
+</div>
 
 ---
 
-# 🌱 Learning Roadmap
+# 📄 projects.ts
 
-```text
-Backend Engineering
-│
-├── Node.js               ✅
-├── Express.js            ✅
-├── Fastify               ✅
-├── MongoDB               ✅
-├── PostgreSQL            🔄
-├── System Design         🔄
-├── Docker                🔄
-├── CI/CD                 🔄
-├── Kubernetes            ⏳
-└── AWS/GCP               ⏳
+```typescript
+const projects = [
 
-Legend:
-✅ Completed
-🔄 In Progress
-⏳ Planned
+{
+    name: "Citizen Auditor",
+
+    status: "Active Development",
+
+    description:
+    "Smart civic complaint and governance platform",
+
+    features: [
+        "Geo-tagged complaints",
+        "Role Based Workflow",
+        "Analytics Dashboard",
+        "Authentication System",
+        "Multi-language Support"
+    ],
+
+    stack: [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "JWT",
+        "Mapbox",
+        "Railway"
+    ]
+},
+
+{
+    name: "CodeNeura",
+
+    description:
+    "Interactive code visualization platform",
+
+    stack: [
+        "React",
+        "JavaScript",
+        "Mermaid.js"
+    ]
+}
+
+];
 ```
 
 ---
 
-# 🚀 Featured Project
+# 📄 roadmap.md
 
-## 🏛 Citizen Auditor
+```md
+# Backend Engineering Roadmap
 
-### Smart Civic Complaint & Governance Platform
+✅ Node.js
 
-```yaml
-status: Active Development
+✅ Express.js
 
-features:
-  - Geo-tagged complaint reporting
-  - Role-based workflow management
-  - Secure authentication
-  - Real-time analytics dashboard
-  - Multi-language support
+✅ MongoDB
 
-tech_stack:
-  - React
-  - Node.js
-  - MongoDB
-  - JWT
-  - Mapbox
-  - Railway
-```
+✅ REST APIs
 
-### 🔗 Project Links
+🔄 PostgreSQL
 
-- 🌐 Live Demo: https://citizen-auditor.vercel.app
+🔄 System Design
 
----
+🔄 Docker
 
-# 📦 Developer Metrics
+🔄 CI/CD
 
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⏳ Kubernetes
 
-🧠 DSA Problems Solved      : 500+
-🚀 Full Stack Projects      : 15+
-📚 Technologies Learned     : 20+
-⚡ Daily Coding Streak      : Active
-🌱 Open Source Journey      : Ongoing
+⏳ Microservices
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⏳ AWS/GCP
 ```
 
 ---
 
-# 📈 GitHub Analytics
+# 📄 terminal.sh
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshubokde21&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
+```bash
+$ whoami
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshubokde21&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+Himanshu Bokde
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=himanshubokde21&theme=github-dark&hide_border=true" />
-</p>
+Full Stack Developer
+Backend Engineer
+Problem Solver
 
----
+$ current-status
 
-# 🏆 GitHub Trophies
+Building: Citizen Auditor
+Learning: System Design
+Practicing: LeetCode
+Exploring: DevOps
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=himanshubokde21&theme=darkhub&row=1&column=7&no-frame=true" />
-</p>
+$ uptime
 
----
-
-# 📊 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshubokde21&bg_color=0d1117&color=58a6ff&line=38bdae&point=ffffff&area=true&hide_border=true" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/himanshubokde21/himanshubokde21/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 🏆 Achievements
-
-```text
-🎖️ 1st Runner-Up  → HACKxPBCOE Hackathon
-📈 1600+          → Leetcode Rating
-💯 500+           → DSA Problems Solved
-🚀 15+            → Full Stack Projects Built
-📚 Continuous     → Learning System Design
-⚡ Active         → Daily Coding & Building
+Coding since: 2022
+Projects Built: 15+
+DSA Problems: 500+
 ```
 
 ---
 
-# 🤝 Connect With Me
+# 📄 githubStats.tsx
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=himanshubokde21&show_icons=true&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshubokde21&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=himanshubokde21&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+# 📄 achievements.log
+
+```log
+[PASS] Runner-Up — TCS AI Hackathon
+
+[PASS] 500+ DSA Problems Solved
+
+[PASS] Multiple Full Stack Projects Built
+
+[PASS] Active Learner
+
+[PASS] Backend Engineering Journey
+```
+
+---
+
+# 📄 contributionGraph.tsx
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshubokde21&bg_color=0d1117&color=58a6ff&line=38bdae&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+---
+
+# 📄 snakeGame.tsx
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/himanshubokde21/himanshubokde21/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 📄 contact.json
+
+```json
+{
+  "email": "bokdesaurabh802@gmail.com",
+  "linkedin": "linkedin.com/in/himanshu-bokde-2a19462b5",
+  "leetcode": "leetcode.com/u/cx_pirate",
+  "github": "github.com/himanshubokde21"
+}
+```
 
 <p align="center">
 
@@ -316,10 +379,13 @@ tech_stack:
 
 ---
 
-<p align="center">
-<b>🚀 Full Stack Developer • ⚙️ Backend Engineer • 🧠 Problem Solver</b>
-</p>
+```yaml
+build:
+  status: SUCCESS
 
-<p align="center">
-<i>Building today. Scaling tomorrow.</i>
-</p>
+message:
+  "Building today. Scaling tomorrow."
+
+author:
+  Himanshu Bokde
+```
