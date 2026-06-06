@@ -1,20 +1,3 @@
-
-
-# 📁 workspace.code-workspace
-
-```json
-{
-  "name": "himanshu-bokde",
-  "theme": "GitHub Dark",
-  "role": "Full Stack Developer",
-  "focus": [
-    "Backend Engineering",
-    "System Design",
-    "Cloud & DevOps"
-  ]
-}
-```
-
 <h1 align="center">👋 Hi, I'm Himanshu Bokde</h1>
 
 <p align="center">
@@ -32,6 +15,21 @@
 </p>
 
 ---
+
+# 📁 workspace.code-workspace
+
+```json
+{
+  "name": "himanshu-bokde",
+  "theme": "GitHub Dark",
+  "role": "Full Stack Developer",
+  "focus": [
+    "Backend Engineering",
+    "System Design",
+    "Cloud & DevOps"
+  ]
+}
+```
 
 # 📂 Explorer
 
