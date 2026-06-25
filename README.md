@@ -26,7 +26,6 @@
   "focus": [
     "Backend Engineering",
     "System Design",
-    "Cloud & DevOps"
   ]
 }
 ```
@@ -55,9 +54,7 @@
 │
 ├── 📁 cloud
 │   ├── ☁️ railway
-│   ├── ☁️ hostinger
-│   ├── ☁️ docker
-│   └── ☁️ gcp
+│   └── ☁️ hostinger
 │
 └── 📄 README.md
 ```
@@ -72,20 +69,15 @@ const Himanshu = {
 
     specialization: [
         "Backend Engineering",
-        "System Design",
-        "Scalable Applications"
     ],
 
     currentlyLearning: [
         "System Design",
-        "Cloud Architecture",
-        "DevOps"
     ],
 
     hobbies: [
         "Building Products",
         "DSA",
-        "Open Source"
     ],
 
     motto: "Code. Learn. Build. Repeat."
@@ -100,36 +92,33 @@ export default Himanshu;
 
 ```typescript
 export const frontend = {
-    React: "95%",
+    React: "75%",
     TypeScript: "80%",
-    TailwindCSS: "90%",
-    JavaScript: "95%",
-    Vite: "85%"
+    TailwindCSS: "70%",
+    JavaScript: "80%",
+    Vite: "75%"
 };
 
 export const backend = {
-    NodeJS: "95%",
-    Express: "90%",
+    NodeJS: "80%",
+    Express: "80%",
     Fastify: "80%",
     Django: "60%",
-    REST_API: "95%",
-    JWT: "90%"
+    REST_API: "70%",
+    JWT: "80%"
 };
 
 export const databases = {
-    MongoDB: "90%",
-    PostgreSQL: "75%",
-    MySQL: "80%",
-    Firebase: "75%",
-    DrizzleORM: "70%"
+    MongoDB: "70%",
+    PostgreSQL: "80%",
+    MySQL: "70%",
+    Firebase: "60%",
+    DrizzleORM: "85%"
 };
 
 export const cloud = {
-    Railway: "90%",
-    Docker: "75%",
-    Hostinger: "75%",
-    Linux: "85%",
-    GCP: "55%"
+    Railway: "70%",
+    Hostinger: "60%",
 };
 ```
 
@@ -140,38 +129,36 @@ export const cloud = {
 ### Frontend
 
 ```text
-React           ████████████████████ 95%
+React           ███████████████░░░░░ 75%
 TypeScript      ████████████████░░░░ 80%
-TailwindCSS     ███████████████████░ 90%
-JavaScript      ████████████████████ 95%
+TailwindCSS     ██████████████░░░░░░ 70%
+JavaScript      ████████████████░░░░ 80%
 ```
 
 ### Backend
 
 ```text
-Node.js         ████████████████████ 95%
-Express.js      ███████████████████░ 90%
+Node.js         ████████████████░░░░ 80%
+Express.js      ████████████████░░░░ 80%
 Fastify         ████████████████░░░░ 80%
-REST APIs       ████████████████████ 95%
-JWT Auth        ███████████████████░ 90%
+REST APIs       ████████████████░░░░ 80%
+JWT Auth        ██████████████░░░░░░ 70%
 ```
 
 ### Database
 
 ```text
-MongoDB         ███████████████████░ 90%
-PostgreSQL      ███████████████░░░░░ 75%
-MySQL           ████████████████░░░░ 80%
-Drizzle ORM     ██████████████░░░░░░ 70%
+MongoDB         ██████████████░░░░░░ 70%
+PostgreSQL      █████████████████░░░ 80%
+MySQL           ██████████████░░░░░░ 70%
+Drizzle ORM     ████████████████░░░░ 85%
 ```
 
 ### Cloud
 
 ```text
-Railway         ███████████████████░ 90%
-Docker          ███████████████░░░░░ 75%
-Hostinger VPS   ███████████████░░░░░ 75%
-Linux           █████████████████░░░ 85%
+Railway         ██████████████░░░░░░ 70%
+Hostinger VPS   █████████████░░░░░░░ 60%
 ```
 
 ---
@@ -191,12 +178,6 @@ Linux           █████████████████░░░ 85%
 ### Database
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
-
-### Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,linux,gcp,githubactions" />
-
-</div>
 
 ---
 
@@ -224,13 +205,13 @@ const projects = [
     stack: [
         "React",
         "Node.js",
-        "MongoDB",
+        "Postgresql",
         "JWT",
         "Mapbox",
         "Railway"
     ]
 
-    live demo: https://citizen-auditor-system--bokdesaurabh802.replit.app/
+    live_demo: "https://citizen-auditor-system--bokdesaurabh802.replit.app/"
 },
 
 {
@@ -242,7 +223,7 @@ const projects = [
     stack: [
         "React",
         "JavaScript",
-        "Mermaid.js"
+        "Mermaid.js",
     ]
 }
 
@@ -297,7 +278,7 @@ $ current-status
 Building: Citizen Auditor
 Learning: System Design
 Practicing: LeetCode
-Exploring: DevOps
+Exploring: New Technologies
 
 $ uptime
 
